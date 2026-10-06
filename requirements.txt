@@ -1,0 +1,8 @@
+numpy
+librosa
+soundfile
+pyworld
+pyttsx4
+ttkbootstrap
+sounddevice
+pydub
